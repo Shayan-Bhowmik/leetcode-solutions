@@ -40,7 +40,7 @@ This approach is simple and straightforward, though not optimal.
 - **Time Complexity:** `O((m+n) log (m+n))`  
   Due to sorting the combined array.
 - **Space Complexity:** `O(m+n)`  
-  Extra space used to store merged array.
+  Extra space to store merged array.
 
 ---
 
