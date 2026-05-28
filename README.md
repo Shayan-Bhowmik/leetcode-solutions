@@ -1,7 +1,7 @@
 # LeetCode Solutions (C++)
 
 This repository contains worked solutions to LeetCode problems implemented in C++.
-Each problem is placed in a dedicated folder named with the problem number and a short title (for example `0001-two-sum/`).
+Each problem is placed in a dedicated folder named with the problem number and a short title.
 
 **Goals:**
 - Provide clear, idiomatic C++ solutions.
