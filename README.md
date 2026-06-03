@@ -37,4 +37,4 @@ Contributing
 License
 - No license is included. Add a `LICENSE` file if you want to set reuse terms.
 
-That's it — simple, searchable C++ solutions intended for study and practice.
+That's it - simple, searchable C++ solutions intended for study and practice.
